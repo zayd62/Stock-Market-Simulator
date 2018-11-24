@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome to stock market simulator!
 
 Stock Market Simulator written in Java with a GUI. Feature include:
 
