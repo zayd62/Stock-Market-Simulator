@@ -27,9 +27,11 @@ Stock Market Simulator written in Java with a GUI. Feature include:
 
 ## How to use
 
-After running ```java Work```, maximise the window that opens, create either a:
+After running ```java Work```, maximise the window that opens, create stocks of type:
  - Share
  - Currency (Forex)
  - Crypto-currency (eg Bitcoin)
  
- once you have created 
+ once you have created all of your stocks, you press start simulation
+ 
+you then have options on top to buy and sell stocks, view historical pricing of a stock, predict pricing of stock, save portfolio (simulator state) and start next day. staring next day will change the price of the stocks. 
